@@ -2,7 +2,7 @@
 
 Examples from Danish Haaron book. Some refactoring has being done in order to fix some small bugs and for better code reuse.
 
-Additionally, data source has been changed due to libraries are deprecated. Googlefinance function has been used to retrieve excel file format.
+Additionally, data source has been changed due to libraries are deprecated. Googlefinance function has been used to retrieve data in excel file format.
 
 Files at this time:
 * priceSerie.py: to initialize source data object
