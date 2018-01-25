@@ -1,4 +1,4 @@
-##Python machine learning Case Studies
+## Python machine learning Case Studies
 
 Examples from Danish Haaron book. Some refactoring has being done in order to fix some small bugs and for better code reuse.
 
@@ -13,4 +13,4 @@ Files at this time:
 
 All of them are plotted.
 
-![Example}(/images/graph.png)
+![Example](/images/graph.png)
